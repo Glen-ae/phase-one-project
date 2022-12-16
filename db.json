@@ -1,0 +1,64 @@
+{
+   
+    "cars": [
+    
+     {
+
+         "id": "1",
+    
+         "name": "DODGE DURANGO SRT",
+    
+         "mileage": "19 MPG(Miles Per Gallon",
+    
+         "seat_capacity": 7,
+    
+         "topspeed": "160 mph",
+    
+         "horsepower": 427,
+    
+         "engine": "6.4 HEMI V8",
+    
+         "image": ""
+
+       },
+       {
+
+        "id": "2",
+   
+        "name": "LAMBORGHINI URUS",
+   
+        "mileage": "7.87 KMPL(Kilometres Per Litre)",
+   
+        "seat_capacity": 7,
+   
+        "topspeed": "!190 mph(Miles Per Hour)",
+   
+        "horsepower": 627,
+   
+        "engine": "TWIN-TURBOCHARGED 4.0-litre V-8",
+   
+        "image": ""
+
+      },
+      {
+
+        "id": "3",
+   
+        "name": "ROLLS ROYCE CULLINAN",
+   
+        "mileage": "9.5kmpl(Kilometres Per Litre)",
+   
+        "seat_capacity": 4,
+   
+        "topspeed": "155mph(Miles Per Hour)",
+   
+        "horsepower": 563,
+   
+        "engine": "TWIN-TURBOCHARGED 6.75L V12",
+   
+        "image": ""
+
+      }
+      
+    ]
+}
